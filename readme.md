@@ -1,9 +1,3 @@
-## See
-
-- [What is an algorithm](#what-is-an-algorithm)
-- [Code of Conduct](https://github.com/AllAlgorithms/algorithms/blob/master/.github/code-of-conduct.md)
-- [Algorithms Categories](#categories)
-
 ## What is an algorithm?
 
 Informally, an algorithm is any well-defined computational procedure that takes
