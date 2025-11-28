@@ -1,21 +1,3 @@
-<p>
-	<a href="#what-is-an-algorithm">What is an algorithm?</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/AllAlgorithms/algorithms/blob/master/.github/contributing.md">Contributing</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.redbubble.com/people/abranhe/works/34285088">Stickers & T-Shirts</a>
-</p>
-
-
-<p>
-<a href="https://twitter.com/AllAlgorithms">
-  <img src="https://cdn.svgporn.com/logos/twitter.svg" width="17px"> Twitter
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/AllAlgorithms">
-  <img src="https://www.instagram.com/static/images/ico/apple-touch-icon-152x152-precomposed.png/419a6f9c7454.png" width="17px"> Instagram
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/AllAlgorithms">
-  <img src="https://img.icons8.com/ios-glyphs/90/333333/github.png" width="18px"> Github
-</a>&nbsp;&nbsp;&nbsp;
-</p>
 
 <br>
 <p align="center">
