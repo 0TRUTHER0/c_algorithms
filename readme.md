@@ -1,18 +1,3 @@
-We are accepting all pull requests. [Read More](https://github.com/AllAlgorithms/algorithms/issues/40)
-
-<div align="center" id="top">
-	<br>
-	<br>
-	<br>
-	<br>
-	<img width="500" height="350" src="https://cdn.abranhe.com/projects/algorithms/logo.svg" alt="Algorithms Logo">
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-
 <p>
 	<a href="#what-is-an-algorithm">What is an algorithm?</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://github.com/AllAlgorithms/algorithms/blob/master/.github/contributing.md">Contributing</a>&nbsp;&nbsp;&nbsp;
