@@ -1,29 +1,8 @@
-
-<br>
-<p align="center">
-  <i>Huge collection of All ▲lgorithms implemented in multiple languages</i>
-</p>
-<br>
-
-<a href="https://github.com/AllAlgorithms"><img src="https://cdn.abranhe.com/projects/algorithms/badge.svg" /></a>
-<a href="https://cash.me/$abranhe"><img src="https://cdn.abranhe.com/badges/cash-me.svg"></a>
-<a href="https://paypal.me/abranhe/10"><img src="https://cdn.abranhe.com/badges/paypal.svg"></a>
-<a href="https://patreon.com/abranhe"><img src="https://cdn.abranhe.com/badges/patreon.svg" /></a>
-
-</div>
-
 ## See
 
 - [What is an algorithm](#what-is-an-algorithm)
-- [Contributing](https://github.com/AllAlgorithms/algorithms/blob/master/.github/contributing.md)
 - [Code of Conduct](https://github.com/AllAlgorithms/algorithms/blob/master/.github/code-of-conduct.md)
-- [Stickers and T-Shirts](https://www.redbubble.com/people/abranhe/works/34285088)
-- [Twitter](https://twitter.com/AllAlgorithms)
-- [Instagram](https://instagram.com/AllAlgorithms)
 - [Algorithms Categories](#categories)
-- [Maintainers](#maintainers)
-- [License](#license)
-
 
 ## What is an algorithm?
 
